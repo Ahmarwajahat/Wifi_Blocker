@@ -119,8 +119,12 @@ sudo python3 wifi_block.py
 <img src="https://github.com/user-attachments/assets/9667c7e8-b531-4013-9815-6fc5d5debd2d" width="600" />
 
 <br>
-### CTRL +C
+
 ---
+
+### CTRL +C
+
+
 <img src="https://github.com/user-attachments/assets/382ae5da-1865-494a-94a2-d1ef3f7461b5" width="800" />
 
 ---
@@ -129,6 +133,36 @@ sudo python3 wifi_block.py
 
 <img width="939" height="576" alt="image" src="https://github.com/user-attachments/assets/f10010aa-764a-4a30-97bf-86cc03fb4bea" />
 <br>
+---
+
+---
+
+## 🔄 Switching Monitor Mode to Managed Mode
+
+After completing Wi-Fi scanning or testing, you may want to switch your wireless adapter back to **Managed Mode**.
+For auto:
+
+<img width="551" height="65" alt="image" src="https://github.com/user-attachments/assets/727e7d06-6dd8-426b-b956-d7b33c51d719" />
+
+---
+
+For Manually:
+
+Use the following command:
+
+```bash
+sudo airmon-ng stop wlan0mon
+sudo systemctl restart NetworkManager
+```
+
+This will:
+
+- Disable monitor mode  
+- Restore the adapter to managed mode  
+- Restart the network service  
+- Re-enable normal Wi-Fi connectivity  
+
+> ⚠️ Replace `wlan0mon` with your monitor interface name if different.
 
 <!-- If you have another GitHub attachment link, paste it below like this -->
 <!-- Example:
