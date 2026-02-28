@@ -119,12 +119,16 @@ sudo python3 wifi_block.py
 <img src="https://github.com/user-attachments/assets/9667c7e8-b531-4013-9815-6fc5d5debd2d" width="600" />
 
 <br>
-
+### CTRL +C
+---
 <img src="https://github.com/user-attachments/assets/382ae5da-1865-494a-94a2-d1ef3f7461b5" width="800" />
 
 ---
 
 ### Network Selection
+
+<img width="939" height="576" alt="image" src="https://github.com/user-attachments/assets/f10010aa-764a-4a30-97bf-86cc03fb4bea" />
+<br>
 
 <!-- If you have another GitHub attachment link, paste it below like this -->
 <!-- Example:
