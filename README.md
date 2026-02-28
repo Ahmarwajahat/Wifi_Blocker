@@ -110,7 +110,8 @@ sudo python3 wifi_block.py
 
 ### Banner Display
 
-<img src="https://github.com/user-attachments/assets/233a5df5-cc88-48c3-be45-215ccc912a1d" width="900" />
+<img width="803" height="847" alt="image" src="https://github.com/user-attachments/assets/e04e0893-500b-4de8-972d-30bfe576ed9a" />
+
 
 ---
 
