@@ -91,3 +91,18 @@ sudo python3 wifi_block.py
 If you want, I can **integrate this directly into the full README** so the **environment setup, requirements, and running instructions** all appear **in one polished, professional file** ready for GitHub.  
 
 Do you want me to do that?
+
+Output is:
+## 🖼 Screenshots
+
+### Banner Display
+![Banner Display](<img width="966" height="528" alt="image" src="https://github.com/user-attachments/assets/233a5df5-cc88-48c3-be45-215ccc912a1d" />
+)
+
+### Wi-Fi Scan Output
+![Scan Output]<img width="530" height="223" alt="image" src="https://github.com/user-attachments/assets/9667c7e8-b531-4013-9815-6fc5d5debd2d" />
+
+<img width="846" height="576" alt="image" src="https://github.com/user-attachments/assets/382ae5da-1865-494a-94a2-d1ef3f7461b5" />
+
+### Network Selection
+![Network Selection](screenshots/network.png)
