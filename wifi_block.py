@@ -3,7 +3,7 @@ import time
 import csv
 import sys
 import os
-from new import show_banner
+from Banner import show_banner
 # call banner
 show_banner()
 INTERFACE = "wlan0"
