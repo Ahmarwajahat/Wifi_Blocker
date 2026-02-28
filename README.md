@@ -19,7 +19,7 @@ This project is an **academic demonstration** of a Wi‑Fi reconnaissance and au
 
 To run this project, your environment must include:
 
-- **Operating System:** Kali Linux (Debian-based Linux recommended)  
+- **Operating System:** Linux (Debian-based Linux recommended)  
 - **Python:** 3.x  
 - **Wireless Adapter:** Supports monitor mode  
 - **Linux Tools:**  
