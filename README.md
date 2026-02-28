@@ -26,7 +26,41 @@ To run this project, your environment must include:
   - `airmon-ng`  
   - `airodump-ng`  
   - `iwconfig`  
+# 🔐 Wi-Fi Recon Automation (Educational Use)
 
+> **Ethical Hacking Project | Academic Demonstration**
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Kali_Linux-black.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Focus-Ethical_Hacking-red.svg" alt="Ethical Hacking">
+  <img src="https://img.shields.io/badge/Status-Academic_Project-green.svg" alt="Status">
+</div>
+
+---
+
+## 📌 Project Overview
+
+This project is a **Python-based Wi-Fi reconnaissance and automation framework** created strictly for **educational and academic purposes**.  
+
+It demonstrates:
+
+- Enabling **monitor mode** on wireless adapters
+- Scanning Wi-Fi networks using `airodump-ng`
+- Parsing CSV outputs
+- Displaying results in a clean, educational format
+- Modular Python design with **ASCII banner & system info**
+
+> ⚠️ **Note:** This code does **not execute attacks automatically**. It is intended for **private network labs and university demonstrations only**.
+
+---
+
+
+
+
+pip install pyfiglet colorama scapy
 **Optional Python Libraries (for enhanced banner / terminal styling):**
 ```bash
 pip install pyfiglet colorama scapy
